@@ -1,0 +1,32 @@
+.heading-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: purple;
+    height: 70px;
+    padding: 11px;
+    text-transform: 'uppercase';
+
+}
+.logo-container{
+    min-width: 5%;
+    max-width: 20%;
+}
+
+.logo{
+    background: #ff7f7f;
+    height: 35px;
+    float: left;
+}
+.heading-text{
+    color: antiquewhite;
+    float: left;
+    min-width: 85%;
+    max-width: 85%;
+}
+.loginButton{
+    float: right;
+}
+.modalTitle{
+    background-color: purple;
+}
